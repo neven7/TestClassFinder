@@ -1,5 +1,5 @@
 # TestClassFinder
-TestClassFinder,support JUnit &amp; TestNG;  测试类探测器，支持JUnix和TestNG，能找出满足正则的所有测试类.
+TestClassFinder, find test class, support JUnit &amp; TestNG;  测试类探测器，支持JUnix和TestNG，能找出满足正则的所有测试类.
 
 
 将工程打包成jar包，src/test/java中使用该jar包
